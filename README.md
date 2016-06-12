@@ -3,5 +3,4 @@ This is the script I use to control the lamp in my room with my raspberry pi. My
 
 I connect to my Rpi with SSH and am able to control my lamp from anyhwere in my house.
 
-The autoLamp.py script is on my laptop to automate connecting to my Rpi
-It uses the PyAutoGUI to open up PuTTy (SSH application), log into my Rpi, and type the command to run relay1.py
+The autoLamp.py script is on my laptop to automate connecting to my Rpi. I use the PyAutoGUI module to open up PuTTy (SSH application), log into my Rpi, and type the command to run relay1.py
