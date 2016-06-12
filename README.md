@@ -1,6 +1,5 @@
 # Lamp-Controller
-This is the script I use to control the lamp in my room with my raspberry pi
-My lamp is connected to a relay which is controlled by the gpio pins of the Rpi
+This is the script I use to control the lamp in my room with my raspberry pi. My lamp is connected to a relay which is controlled by the gpio pins of the Rpi
 
 I connect to my Rpi with SSH and am able to control my lamp from anyhwere in my house.
 
